@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"il.ac.hit.CashFlowManagement"},{"l":"il.ac.hit.CashFlowManagement.exception"},{"l":"il.ac.hit.CashFlowManagement.model"},{"l":"il.ac.hit.CashFlowManagement.test"},{"l":"il.ac.hit.CashFlowManagement.view"},{"l":"il.ac.hit.CashFlowManagement.viewmodel"}]

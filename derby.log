@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Apr 06 22:33:09 IDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.1.3 - (1853019): instance a816c00e-0171-50fb-75c3-00000726f618 
+on database directory C:\Users\sagis\IdeaProjects\CashFlowManagement\CashFlowManagementDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5a07e868 
+Loaded from file:/C:/db-derby-10.15.1.3-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=C:\Users\sagis\IdeaProjects\CashFlowManagement
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
